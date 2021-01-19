@@ -4,4 +4,6 @@ RUN   pip install --no-cache-dir -U \
           discogs-client \
           requests \
           requests_oauthlib \
-          beatport
+          beatport \
+          convert \
+          beetcamp
